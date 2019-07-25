@@ -1,0 +1,1 @@
+print("AMAZING script")
